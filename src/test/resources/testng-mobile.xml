@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Mobile Tests Suite" parallel="false">
+
+    <test name="Mobile Tests">
+        <packages>
+            <package name="com.automation.tests.mobile"/>
+        </packages>
+    </test>
+
+</suite>
